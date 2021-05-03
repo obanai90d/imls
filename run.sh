@@ -1,0 +1,1 @@
+java -jar -Xmx2G -Xms1G fabric-server-launch.jar
